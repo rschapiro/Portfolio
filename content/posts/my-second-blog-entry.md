@@ -1,0 +1,12 @@
+---
+title: "My second blog entry: Interesting"
+date: 2022-12-06T14:34:28+01:00
+draft: true
+toc: false
+images:
+tags:
+  - untagged
+---
+
+## Interesting things
+Hello again! Here I am again writing about things. We've found a company for colaborating with the project, and that is just swell. Looking forward to getting it validated and starting to work on it.
