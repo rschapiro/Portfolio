@@ -3,9 +3,7 @@ title: "My second blog entry: Interesting"
 date: 2022-12-06T14:34:28+01:00
 draft: false
 toc: false
-images: 
-tags: 
- - untagged
+images:
 ---
 
 ## Interesting things
