@@ -10,3 +10,4 @@ tags: untagged
 ## Interesting things
 Hello again! Here I am again writing about things. We've found a company for colaborating with the project, and that is just swell. Looking forward to getting it validated and starting to work on it.
 
+![Gekko](/static/interesting-animals-35-728-66855356.jpg)
