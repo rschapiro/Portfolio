@@ -9,6 +9,7 @@ toc: true
 Hello again! Here I am again writing about things. We've found a company for colaborating with the project, and that is just swell. Looking forward to getting it validated and starting to work on it.
 
 ![Owl](/Curious-Burrowing-Owl-crop-341494953.jpg)
+Some extra stuff!
 
 ## Some new commands!
 In Visual Studio Code, my friend taught me some new commands:
