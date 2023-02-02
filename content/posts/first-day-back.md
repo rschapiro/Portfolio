@@ -2,7 +2,7 @@
 title: "First Day Back + Description of specialities"
 date: 2023-01-30T19:00:16+01:00
 draft: false
-toc: false
+toc: true
 images:
 tags:
   - untagged
