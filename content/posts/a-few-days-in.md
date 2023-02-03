@@ -20,4 +20,4 @@ Next up I installed Unity and started reading and going through the tutorial for
 
 The last thing for today was that I started working on a LEGO Microgame Tutorial from Unity's website. The tutorial was a little difficult to find, since the tutorial on the website was a little outdated, but managed to find it in the end, through a template in the Unity Editor. I only managed to get through a little bit, but this Microgame tutorial was very fun and engaging, and I'm really excited to dig more in and learn more about this one 💻
 
-[![LEGO_day_1](/lego_day_1.jpg)]
+![LEGO_day_1](/lego_day_1.jpg)
