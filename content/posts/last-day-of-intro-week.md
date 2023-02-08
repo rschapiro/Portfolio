@@ -1,11 +1,12 @@
 ---
 title: "Last Day of Intro Week"
 date: 2023-02-03T14:56:18+01:00
-draft: true
+draft: false
 toc: true
 images:
 tags:
   - untagged
+summary: 'Helllfdsabfjksb'
 ---
 
 ## Alrighty then!

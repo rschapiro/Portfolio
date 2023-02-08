@@ -1,7 +1,7 @@
 ---
 title: "A Few Days In"
 date: 2023-02-02T18:54:23+01:00
-draft: true
+draft: false
 toc: false
 images:
 tags:
