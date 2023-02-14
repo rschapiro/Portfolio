@@ -59,7 +59,12 @@ paginate     = 10
     identifier = "learning"
     name       = "A Learning Curve"
     url        = "/my-learning"
-    
+
+  [[menu.main]]
+    identifier = "learningPlan"
+    name       = "Learning Plan"
+    url        = "/learning-plan"  
+
   [[menu.main]]
     identifier = "blog"
     name       = "Blog"
