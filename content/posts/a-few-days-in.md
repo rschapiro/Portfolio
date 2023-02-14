@@ -14,7 +14,10 @@ Hi there! So now...phew. Bit of a rough start. It's been mostly very exciting an
 ### What I did today:
 
 **Wrote a plan for goals to hit for the upcoming two weeks:**
-I made a table on one of my pages that shows how what I will be working towards for the first two weeks. This is currently not in the right locaion, but will update it soon. It's now residing in this blog post [this blog post](https://schapiro.tech/posts/first-day-back/#table) 😎
+I made a learning plan on one of my pages that shows how what I will be working towards for the first two weeks. This is currently not in the right locaion, but will update it soon. It's now residing in this blog post [this blog post](https://schapiro.tech/posts/first-day-back/#table) 😎
+
+*(Edit: The learning plan for the first two weeks can be seen at the [Learning Plan](../../learning-plan) tab.)*
+
 
 Next up I installed Unity and started reading and going through the tutorial for getting started on [Unity's websit](https://learn.unity.com/mission/real-time-creation-essentials). This went fairly well. I spent some time with Alexander to figure out how to collaborate on projects while working in Unity as well. This was a bit more tricky, and we still need to look into that. Tried with Git Bash and a remote rpository on GitHub, but turned out to be a little more complicated than we thought.
 

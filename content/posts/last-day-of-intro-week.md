@@ -2,17 +2,16 @@
 title: "Last Day of Intro Week"
 date: 2023-02-03T14:56:18+01:00
 draft: false
-toc: true
+toc: false
 images:
 tags:
   - untagged
-summary: 'Helllfdsabfjksb'
 ---
 
 ## Alrighty then!
 Today was the last day on the first introductory week. The mood is good.
 
-Today we continued working on how to collaborate on projects in Unity. It was a bit more dofficult than I assumed, but I sent request to get a Student Plan in order to work with Plastic SCM for free (hopefully). There are quite a few benefits as a student 😎
+Today we continued working on how to collaborate on projects in Unity. It was a bit more difficult than I assumed, but I sent request to get a Student Plan in order to work with Plastic SCM for free (hopefully). There are quite a few benefits as a student 😎
 
 After that we contacted our product owner for our project. Will be nice to meet him and looking forward to work with him. Then I have been learning about Blender today.
 
