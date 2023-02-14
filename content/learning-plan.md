@@ -2,7 +2,7 @@
 title: "Learning Plan"
 ---
 
-Here is a plan for the two-week sprint I'm currently in. To see my plans for the other sprints, [click here](../learning-plans).
+This is the plan for the two-week sprint I'm currently in. To see the plans for the other sprints, [click here](../plans-through-semester).
 
 ### Week 6 and 7
 | Goal | How do I plan to do it?  | When has it been achieved? |Evaluation |
