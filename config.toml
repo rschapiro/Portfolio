@@ -65,4 +65,7 @@ paginate     = 10
     name       = "Blog"
     url        = "/posts"
 
-  
+[[menu.main]]
+    identifier = "tags"
+    name       = "Topics"
+    url        = "/topics"  
