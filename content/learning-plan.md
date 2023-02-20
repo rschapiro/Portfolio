@@ -1,11 +1,11 @@
 ---
-title: "Learning Plan"
+title: "Learning Plan of Current Sprint"
 ---
 
 This is the plan for the two-week sprint I'm currently in. To see the plans for the other sprints, [click here](../plans-through-semester).
 
-### Week 6 and 7
-| Goal | How do I plan to do it?  | When has it been achieved? |Evaluation |
-| :----------- | :---------------- | :------- | :-------- |
-| Understand how to navigate and understand the fundamental elements in Unity. | Create a project from a template, and edit the properties to understand the way Unity works. In addition, go through the tutorial I found for the first day. | When I can create and operate objects and elements in Unity. | Evaluate whether I achieved a satisfying result according to the plan and product.
-| Understand the fundamental elements in Blender. | Create and design models with Blender to use within the game from Unity, by using the tutorial for making a donut in Blender. | When it's possible to make a satisfying donut in Blender and implement this model in the Unity game. | Evaluate whether I achieved a satisfying result according to the plan and product.|
+### Week 8 and 9
+| Goal | How do I plan to do it?  | When has it been achieved? |
+| :----------- | :---------------- | :------- |
+| Understand how to make a 3D environment in Unity, and to make a character move around in it. | My plan is to continue and hopfully finish the written tutorial on Unity's own webpage. | When I have made a Unity project with a moving character. |
+| Understand how to implement a 3D model from Blender, and to be able to interact with it. | My plan is to to finish the donut tutorial and by that get a better understanding of how to do it. | When I have finished the donut tutorial and implemented the donut as an interactive object with a moving character in Unity. |
