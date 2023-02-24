@@ -37,11 +37,6 @@ paginate     = 10
     tag      = "tags"
     series   = "series"
 
-[taxonomies]
-    category = "blog"
-    tag      = "food"
-    series   = "series"
-
 [languages]
   [languages.en]
     title = "Schapiro World"
