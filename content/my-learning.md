@@ -5,7 +5,7 @@ title: "My Learning"
 ## VR
 Here on this site you will find more about my learning process.
 
-[![VR](/th-4257821626.jpg)](../vr)
+[![VR](/th-4257821626.jpg)](../vr/vr)
 
 
 {{< image src="/Cowboy-Hat-180x180-1929573730.png" alt="hat1" style="float:left;" >}}
