@@ -57,7 +57,7 @@ paginate     = 10
  # And you can even create generic menu 
   [[menu.main]]
     identifier = "learning"
-    name       = "A Learning Curve"
+    name       = "My Learning"
     url        = "/my-learning"
 
   [[menu.main]]

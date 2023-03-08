@@ -2,19 +2,19 @@
 title: "My Learning"
 ---
 
-## VR
-Here on this site you will find more about my learning process.
-
-[![VR](/th-4257821626.jpg)](../vr/vr)
+Click on a picture to read about my learning in the different areas.
 
 
-{{< image src="/Cowboy-Hat-180x180-1929573730.png" alt="hat1" style="float:left;" >}}
+<!-- [![VR](/th-4257821626.jpg)](../vr/vr) -->
+[{{< image src="/vr.png" alt="vr" style="float:left; width:330px;" >}}](../vr/vr)
 
-[{{< image src="/th-4124228182.jpg" alt="hat2" style="float:left;" >}}](../plans-through-semester)
+[{{< image src="/blender-logo2.jpg" alt="blender_logo" style="float:right; height:220px" >}}](../beginning-vr)
 
-{{< image src="/th-4124228182.jpg" alt="hat2">}}
+<!-- [{{< image src="/th-4124228182.jpg" alt="hat2" style="float:left;" >}}](../plans-through-semester) -->
+
+<!-- {{< image src="/th-4124228182.jpg" alt="hat2">}} -->
 
 
 
 
-{{< youtube w7Ft2ymGmfc >}}
+<!-- {{< youtube w7Ft2ymGmfc >}} -->
