@@ -4,17 +4,8 @@ title: "My Learning"
 
 Click on a picture to read about my learning in the different areas.
 
+[{{< image src="/vr1.jpg" alt="vr" style="float:left; height:220px; padding-right:20px;" >}}](../vr/vr)
 
-<!-- [![VR](/th-4257821626.jpg)](../vr/vr) -->
-[{{< image src="/vr.png" alt="vr" style="float:left; width:330px;" >}}](../vr/vr)
-
-[{{< image src="/blender-logo2.jpg" alt="blender_logo" style="float:right; height:220px" >}}](../beginning-vr)
-
-<!-- [{{< image src="/th-4124228182.jpg" alt="hat2" style="float:left;" >}}](../plans-through-semester) -->
-
-<!-- {{< image src="/th-4124228182.jpg" alt="hat2">}} -->
-
-
-
+[{{< image src="/blender-logo.png" alt="blender_logo" style="float:center; height:220px" >}}](../beginning-vr)
 
 <!-- {{< youtube w7Ft2ymGmfc >}} -->
