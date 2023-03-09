@@ -17,7 +17,7 @@ I started yesterday and I was very glad I had a little bit of practice with the 
 
 This is the final product of the character model:
 
-![First Character](/Blender/First_Character_Design/first_character.jpg)
+![First Character](/blender/first_character_design/first_character.jpg)
 
 I will make an article explaining the work process for this character model in a few days hopefully.
 
