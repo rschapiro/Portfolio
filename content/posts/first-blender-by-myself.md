@@ -16,6 +16,6 @@ I made the dumbbell from three cylinders that I stretched and formed in differen
 
 This is the final one with color choice after rendering:
 
-[{{< image src="/blender/dumbbell/finished-dumbbell.png" >}}]
+{{< image src="/blender/dumbbell/finished-dumbbell.png" >}}
 
 It was really nice to try and make something in Blender today, it gave some encouragement. Looking forward to try and use it tomorrow in a VR environment.
