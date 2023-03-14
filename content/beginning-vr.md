@@ -30,4 +30,3 @@ Sickness from playing VR games is unfortunately a very common issue. When playin
 
 There are some general practices to use when planning and developing for VR:
 - If using smooth movement the player should only be moved around by themselves - don't make the player move around due to code or in other ways.
-- 

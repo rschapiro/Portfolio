@@ -64,18 +64,3 @@ paginate     = 10
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
-
-  [[menu.main]]
-    identifier = "learningPlan"
-    name       = "Learning Plan"
-    url        = "/learning-plan"
-  
-  [[menu.main]]
-    identifier = "reference"
-    name       = "Reference List"
-    url        = "/reference-list"
-
-  [[menu.main]]
-    identifier = "tags"
-    name       = "Topics"
-    url        = "/topics"  
