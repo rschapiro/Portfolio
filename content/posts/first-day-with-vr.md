@@ -12,4 +12,10 @@ Apparently VR headsets are called head-mounted display (HMD for short).
 
 Started out funny:
 
-{{< image src="/unity/funny-meta-start.jpg" >}}
+{{< image src="/img/unity/funny-meta-start.jpg" >}}
+
+[TERMS OF THE KØREKORT IMG]
+
+Installed Meta Quest Developer Hub - had some nice features for helping developers for the Oculus VR headset
+
+Installed the Oculus PC app
