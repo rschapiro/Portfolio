@@ -5,6 +5,12 @@ toc: true
 
 Here I will write about VR
 
+## [THINGS TO WRITE ABOUT]
+### XR Interaction Toolkit
+### Input System
+### Input Manager
+### Oculus Interaction Asset
+
 ## Beginning VR
 {{< image src="/img/first-steps.jpg" style="height:220px;">}}
 
@@ -25,3 +31,6 @@ This is the first preparations for my VR development. Read more [here](../../beg
 - [Build And Run Your App](https://developer.oculus.com/documentation/unity/unity-build/)
 
 - [Upload Apps to Meta Store](https://developer.oculus.com/documentation/unity/unity-platform-tool/)
+
+16/03/2023
+- [Unity3D & Quest2 : Running a VR project using APK Build method](https://www.youtube.com/watch?v=K4fiFuI3Cz8)
