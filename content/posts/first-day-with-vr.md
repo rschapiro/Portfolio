@@ -5,7 +5,7 @@ draft: false
 toc: false
 images:
 tags:
-  - untagged
+  - VR
 ---
 
 Apparently VR headsets are called head-mounted display (HMD for short).

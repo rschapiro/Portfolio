@@ -5,7 +5,8 @@ draft: false
 toc: false
 images:
 tags:
-  - untagged
+  - VR
+  - Unity
 ---
 
 Today I wanted to fidure out if there was a way for me to test the applications I make directly on the headset itself. But this turned out to be a bit more problematic than I thought.

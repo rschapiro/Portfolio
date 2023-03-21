@@ -5,7 +5,7 @@ draft: false
 toc: false
 images:
 tags:
-  - untagged
+  - Blender
 ---
 
 Here we are again. Worked on environment modeling yesterday and continued doing that today as well.

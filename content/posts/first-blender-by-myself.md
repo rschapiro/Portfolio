@@ -5,7 +5,7 @@ draft: false
 toc: false
 images:
 tags:
-  - untagged
+  - Blender
 ---
 
 Here we are. First selfmade model made in Blender. This was after the idea of Alex. He suggested it could be good to have something for me to be able to pick up in VR tomorrow, since the plan is to be working on VR tomorrow. I used a reference picture just like Andrew the Blender Guru suggests in the Donut tutorial.

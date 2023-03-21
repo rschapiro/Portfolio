@@ -5,7 +5,7 @@ draft: false
 toc: false
 images:
 tags:
-  - untagged
+  - VR
 ---
 
 First up today were the two meetings for groups with same subjects as me. Once again we were the only two for the first meeting. It's starting to get a little dull I must say. I hope the others will turn up soon as well.
