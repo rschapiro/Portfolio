@@ -5,7 +5,10 @@ draft: false
 toc: true
 images:
 tags:
-  - untagged
+  - VR
+  - Unity
+  - Blender
+  - Updates
 ---
 
 ## First day back in school!

@@ -5,7 +5,8 @@ draft: false
 toc: false
 images:
 tags:
-  - untagged
+  - Unity
+  - Updates
 ---
 
 ## A Few Days In
@@ -19,7 +20,7 @@ I made a learning plan on one of my pages that shows how what I will be working 
 *(Edit: The learning plan for the first two weeks can be seen at the [Learning Plan](../../learning-plan) tab.)*
 
 
-Next up I installed Unity and started reading and going through the tutorial for getting started on [Unity's websit](https://learn.unity.com/mission/real-time-creation-essentials). This went fairly well. I spent some time with Alexander to figure out how to collaborate on projects while working in Unity as well. This was a bit more tricky, and we still need to look into that. Tried with Git Bash and a remote rpository on GitHub, but turned out to be a little more complicated than we thought.
+Next up I installed Unity and started reading and going through the tutorial for getting started on [Unity's website](https://learn.unity.com/mission/real-time-creation-essentials). This went fairly well. I spent some time with Alexander to figure out how to collaborate on projects while working in Unity as well. This was a bit more tricky, and we still need to look into that. Tried with Git Bash and a remote rpository on GitHub, but turned out to be a little more complicated than we thought.
 
 The last thing for today was that I started working on a LEGO Microgame Tutorial from Unity's website. The tutorial was a little difficult to find, since the tutorial on the website was a little outdated, but managed to find it in the end, through a template in the Unity Editor. I only managed to get through a little bit, but this Microgame tutorial was very fun and engaging, and I'm really excited to dig more in and learn more about this one 💻
 

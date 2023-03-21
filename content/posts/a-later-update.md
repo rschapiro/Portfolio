@@ -5,7 +5,8 @@ draft: false
 toc: true
 images:
 tags:
-  - untagged
+  - Blender
+  - Updates
 ---
 
 # General stuff

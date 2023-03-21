@@ -5,7 +5,7 @@ draft: false
 toc: false
 images:
 tags:
-  - untagged
+  - Updates
 ---
 
 So this is a small text describing what has happened lately. It's been a bit rough I'm afraid. Have been trying to take on too much at the same time, so it could have been better. I just had a talk with Simon after our project meeting. He was very supportive and tried to explain to me that I need to take one thing at a time, and complete the course or book, or what I've been trying to work on, fully before moving on to something else. Use the course (or book - chapter by chapter) to create a structure for my learning, and for the procedure in which I will learn different things. 
