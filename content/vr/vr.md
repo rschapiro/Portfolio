@@ -14,7 +14,7 @@ Here I will write about VR
 ## Beginning VR
 {{< image src="/img/first-steps.jpg" style="height:220px;">}}
 
-This is the first preparations for my VR development. Read more [here](../../beginning-vr).
+This is the first preparations for my VR development. Read more [here](../../posts/beginning-vr).
 
 ## Reference List
 

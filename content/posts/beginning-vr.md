@@ -1,6 +1,9 @@
 ---
 title: "Beginning Virtual Reality (VR)"
+date: 2023-03-14T17:56:18+01:00
 toc: true
+tags:
+  - VR
 ---
 
 Article: https://gamedevacademy.org/how-to-create-a-game-for-the-meta-quest/

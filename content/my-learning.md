@@ -14,9 +14,5 @@ Click on a picture to read about my learning in the different areas.
 
 <!-- {{< youtube w7Ft2ymGmfc >}} -->
 
-## Learning Plan
-
-[{{< image src="/img/learning-plan.jpg" alt="learning plan" style="float:center; height:220px;" >}}](../learning-plan)
-
 ## General help and tips
 - [Hugo Shortcodes](https://gohugo.io/content-management/shortcodes/)
