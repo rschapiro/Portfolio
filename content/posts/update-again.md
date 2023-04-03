@@ -8,7 +8,7 @@ tags:
   - Updates
 ---
 
-So this is a small text describing what has happened lately. It's been a bit rough I'm afraid. Have been trying to take on too much at the same time, so it could have been better. I just had a talk with Simon after our project meeting. He was very supportive and tried to explain to me that I need to take one thing at a time, and complete the course or book, or what I've been trying to work on, fully before moving on to something else. Use the course (or book - chapter by chapter) to create a structure for my learning, and for the procedure in which I will learn different things. 
+So this is a small text describing what has happened lately. It's been a bit rough I'm afraid. Have been trying to take on too much at the same time, so it could have been better. I just had a talk with our product supervisor after our project meeting. He was very supportive and tried to explain to me that I need to take one thing at a time, and complete the course/book (or whatever I've been trying to work on) fully, before moving on to something else. Use the course (or book - chapter by chapter) to create a structure for my learning, and for the procedure in which I will learn different things. 
 
 "What if stuff is outdated then?" "That's just a part of being a teacher." But nevertheless I can use that as means of learning how to figure out how to learn these things in a new way.
 
