@@ -10,7 +10,7 @@ tags:
 ---
 
 # General stuff
-Hello again, bloggen! It's been a while. Last week got a bit overwhelming. I started up a small 2D platformer project with Alex and i wanted to finish my Blender Donut tutorial so that I would be able to make sprites for the game. Unofrtunately this took more time than expected, so we had to shift plans slightly.
+Hello again, bloggen! It's been a while. Last week got a bit overwhelming. I started up a small 2D platformer project with Alex and i wanted to finish my Blender Donut tutorial so that I would be able to make sprites for the game. Unfortunately this took more time than expected, so we had to shift plans slightly.
 
 Instead during this week I put the Donut project on hold, and started working on the character model for the player you would be using in the game.
 
