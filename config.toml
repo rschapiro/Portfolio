@@ -69,3 +69,8 @@ paginate     = 10
     identifier = "learning plans"
     name       = "Learning Plans"
     url        = "/learning-plans"
+
+  [[menu.main]]
+    identifier = "goals"
+    name       = "Goals"
+    url        = "/goals"
