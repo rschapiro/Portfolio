@@ -49,7 +49,7 @@ title: "Goals"
 -	Indsætning af assets – objects/img-filer
 -	Tilføje og lave materials til objects
 -	Components til objects
-- XRRig
+-   XRRig
 
 
 ### Knowledge
