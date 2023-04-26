@@ -5,6 +5,13 @@ toc: true
 
 Welcome! This is an overview of all the plans for the two-week sprints I worked thorugh during this semester. Another column has been added for a small evaluation on the completion of the goals.
 
+## Week 17 and 18
+| Goal | How do I plan to do it?  | When has it been achieved? |
+| :----------- | :---------------- | :------- |
+| Make the body appear in the game. | Hopla | When you can see the body in the game. |
+| Zone for hands. | Tutorial about how to do it. | When it works. |
+| (MAYBE ANIMATIONS FOR THE BODY - BLENDER VS. UNITY) |  |  |
+
 ## Week 15 and 16
 | Goal | How do I plan to do it?  | When has it been achieved? |
 | :----------- | :---------------- | :------- |
