@@ -4,14 +4,11 @@ title: "Goals"
 
 ## Blender
 
--	Modifiers
-    - Subdivision
-    - Mirror
-    - Solidify
--	Meshes
-    - Vertices
--	Rendering
-    - Render engines
+### Knowledge
+
+- 
+
+
 -	Modeling
 -	Editing
 -	Tools
@@ -27,16 +24,23 @@ title: "Goals"
     - Rigging
     - Armature
 
-### Knowledge
 
-### Skills
 
-### Competences
+### Skills, I am able to
+
+- design 3D models in Blender by using meshes
+
+
+### Competences, I am able
+
+- evaluate the functionality of different modifiers, amongst the Subdivision, Mirror and Solidify
+- evaluate the use of different rendering engines, amongst Eevee and Cycles
+
+
+
 
 ## VR in Unity
 
--	Start-function
--	Update-function
 -	Opsætning af projekt fra skabelon
     - Opsætning til “Build and run” til Oculus headset – android build
 -	Opsætning til Git-repository
@@ -50,10 +54,18 @@ title: "Goals"
 -	Tilføje og lave materials til objects
 -	Components til objects
 -   XRRig
+-   custom hand poses (when grabbing objects)
 
 
-### Knowledge
+### Knowledge, I have knowledge about
 
-### Skills
+- the Start and Update method, and the uses of it
 
-### Competences
+### Skills, I am able to
+
+- set up a project for "build and run" for the Meta Quest 2 headset
+- design custom hand poses for grabbing different 3D objects in a Unity project
+
+### Competences, I am able to
+
+- 

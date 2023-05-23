@@ -5,6 +5,20 @@ toc: true
 
 Welcome! This is an overview of all the plans for the two-week sprints I worked thorugh during this semester. Another column has been added for a small evaluation on the completion of the goals.
 
+## Week 21
+| Goal | How do I plan to do it?  | When has it been achieved? |
+| :----------- | :---------------- | :------- |
+| Make the body appear in the game. | Hopla | When you can see the body in the game. |
+| Zone for hands. | Tutorial about how to do it. | When it works. |
+| (MAYBE ANIMATIONS FOR THE BODY - BLENDER VS. UNITY) |  |  |
+
+## Week 19 and 20
+| Goal | How do I plan to do it?  | When has it been achieved? |
+| :----------- | :---------------- | :------- |
+| Make the body appear in the game. | Hopla | When you can see the body in the game. |
+| Zone for hands. | Tutorial about how to do it. | When it works. |
+| (MAYBE ANIMATIONS FOR THE BODY - BLENDER VS. UNITY) |  |  |
+
 ## Week 17 and 18
 | Goal | How do I plan to do it?  | When has it been achieved? |
 | :----------- | :---------------- | :------- |
@@ -31,11 +45,8 @@ Welcome! This is an overview of all the plans for the two-week sprints I worked 
 ## Week 8 and 9
 | Goal | How do I plan to do it?  | When has it been achieved? | Evaluation |  |
 | :----------- | :---------------- | :------- | :------ | :-------: |
-| Understand how to make a 3D environment in Unity, and to make a character move around in it. | My plan is to continue and hopfully finish the written tutorial on Unity's own webpage. | When I have made a Unity project with a moving character.  | ** | ❌ |
-| Understand how to implement a 3D model from Blender, and to be able to interact with it. | My plan is to to finish the donut tutorial and by that get a better understanding of how to do it. | When I have finished the donut tutorial and implemented the donut as an interactive object with a moving character in Unity. | *I put too much on my plate.* | ❌ |
-
-### Summary of week 8 and 9
-Didn't go as planned. I wanted to make one thing and spend too much time on figuring out how to plan everything.
+| Understand how to make a 3D environment in Unity, and to make a character move around in it. | My plan is to continue and hopfully finish the written tutorial on Unity's own webpage. | When I have made a Unity project with a moving character.  | *I wanted to go step by step, and was very keen on learning how to use the Unity Editor a little bit at a time. During this sprint however, I got caught up in learning in what way I learn the best, and unfortunately this took up all my time. So by the end of the sprint I couldn't see a reason to keep waiting to start on the real project from our product owner. It also didn't help that I haven't defined a clear enough goal to learn for this sprint (the written tutorial was very long and didn't feel like I needed it) so sadly I had to adjust.* | ❌ |
+| Understand how to implement a 3D model from Blender, and to be able to interact with it. | My plan is to to finish the donut tutorial and by that get a better understanding of how to do it. | When I have finished the donut tutorial and implemented the donut as an interactive object with a moving character in Unity. | *A lot of the same as the above. Spend too much time on learning how to acquire new knowledge, and at the same time wanted to learn too many new things, so I didn't know what direction to go in.* | ❌ |
 
 ## Week 6 and 7
 | Goal | How do I plan to do it?  | When has it been achieved? | Evaluation |  |

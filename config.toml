@@ -56,21 +56,26 @@ paginate     = 10
 
  # And you can even create generic menu 
   [[menu.main]]
-    identifier = "learning"
-    name       = "My Learning"
-    url        = "/my-learning"
-
-  [[menu.main]]
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
-  
-  [[menu.main]]
-    identifier = "learning plans"
-    name       = "Learning Plans"
-    url        = "/learning-plans"
 
   [[menu.main]]
     identifier = "goals"
     name       = "Goals"
     url        = "/goals"
+
+  [[menu.main]]
+    identifier = "learning plans"
+    name       = "Learning Plans"
+    url        = "/learning-plans"
+  
+  [[menu.main]]
+    identifier = "learning"
+    name       = "My Learning"
+    url        = "/my-learning"
+  
+  [[menu.main]]
+    identifier = "reference list"
+    name       = "Reference List"
+    url        = "/reference-list"
