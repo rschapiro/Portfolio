@@ -40,7 +40,7 @@ title: "Goals"
 *"I am able to..."*
 
 - evaluate the functionality of different modifiers, amongst Subdivision, Mirror and Solidify
-- evaluate the tools use in the modeling and the editing stage, and when to transission from one to another
+- evaluate the tools used in the modeling and the editing stage, and when to transission from one to another
 - Blender workspace (modeling and sculpting)
 
 
@@ -60,12 +60,16 @@ title: "Goals"
 <!-- -   XRRig -->
 <!-- -   custom hand poses (when grabbing objects) -->
 
+<!-- [STRANGE SENTENCE] -->
+<!-- - the uses of scripts, how to write them as well as which to add and to which -->
+
+- [INCLUDING MATERIAL CHANGE IN UNITY AND IN BLENDER]
+
 
 ### Knowledge
 *"I have knowledge about..."*
 
 - the fundamentals of the Unity Editor and how to navigate it
-- the uses of scripts, how to write them as well as which to add and to which 
 - the package manager and the asset store and how to use it
 - set up a project for "build and run" for the Meta Quest 2 headset
 
@@ -76,9 +80,11 @@ title: "Goals"
 - change the color as well as the look of the controllers
 - make animations based on controller inputs
 - design custom hand poses for grabbing different 3D objects in a Unity project
+- write my own scripts from the ground up
 
 ### Competences
 *"I am able to..."*
 
 - evaluate how to mitigate the feeling of motion sickness while in a virtual environment
 - evaluate the uses of components for 3D-objects in Unity
+- evaluate the difference between working in a 2D and a 3D project
