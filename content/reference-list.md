@@ -22,3 +22,8 @@ Here is a list of all the material I have been using, as well as short notes on 
 
 16/03/2023
 - [Unity3D & Quest2 : Running a VR project using APK Build method](https://www.youtube.com/watch?v=K4fiFuI3Cz8)
+
+
+
+## General help and tips
+- [Hugo Shortcodes](https://gohugo.io/content-management/shortcodes/)
