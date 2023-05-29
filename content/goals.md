@@ -4,8 +4,10 @@ title: "Goals"
 
 ## Blender
 
--	Modeling
--	Editing
+<!-- - Object and Editing mode -->
+<!-- - Modeling and Sculpting workspace -->
+<!-- - Shading - flat and smooth -->
+
 <!-- -	Tools
     - Grab
     - Rotate
@@ -21,24 +23,25 @@ title: "Goals"
 ### Knowledge
 *"I have knowledge about..."*
 
-- the use of meshes and vertices
+- the fundamentals of Blender and how to navigate it
+- the different kinds of render engines when rendering pictures in Blender, amongst Eevee and Cycles
+- the shading options: flat and smooth
+- the object mode and the edit mode of Blender
 
 ### Skills
 *"I am able to..."*
 
-- design simple 3D models in Blender by using meshes
-- design simple 3D models in Blender by using different tools [SKAL UDDYBES]
-- make simple animations using keyframes and the graph editor
+- design simple 3D models in Blender by using meshes and vertices
+- design and build 3D models in Blender using the simple build-in tools, amongst grab, rotate, scale, extrude, bevel and inset
+- create simple animations using keyframes and the graph editor
 
 
 ### Competences
-*"I am able..."*
+*"I am able to..."*
 
 - evaluate the functionality of different modifiers, amongst Subdivision, Mirror and Solidify
-- evaluate the tools use in the modeling and the editing stage
-- evaluate the use of different rendering engines, amongst Eevee and Cycles
-
-
+- evaluate the tools use in the modeling and the editing stage, and when to transission from one to another
+- Blender workspace (modeling and sculpting)
 
 
 ## VR in Unity
@@ -61,14 +64,15 @@ title: "Goals"
 ### Knowledge
 *"I have knowledge about..."*
 
-- the Start and Update method, and the uses of it in the Unity Editor
-- the package manager and the asset store
+- the fundamentals of the Unity Editor and how to navigate it
+- the uses of scripts, how to write them as well as which to add and to which 
+- the package manager and the asset store and how to use it
+- set up a project for "build and run" for the Meta Quest 2 headset
 
 ### Skills
 *"I am able to..."*
 
-- the fundamentals of the Unity Editor and how to navigate it
-- set up a project for "build and run" for the Meta Quest 2 headset
+- create simple 2D and 3D/VR projects using templates
 - change the color as well as the look of the controllers
 - make animations based on controller inputs
 - design custom hand poses for grabbing different 3D objects in a Unity project
@@ -77,5 +81,4 @@ title: "Goals"
 *"I am able to..."*
 
 - evaluate how to mitigate the feeling of motion sickness while in a virtual environment
-- evaluate the uses of scripts, how to write them as well as which to add and to which components
 - evaluate the uses of components for 3D-objects in Unity
