@@ -27,6 +27,7 @@ title: "Goals"
 - the different kinds of render engines when rendering pictures in Blender, amongst Eevee and Cycles
 - the shading options: flat and smooth
 - the object mode and the edit mode of Blender
+- meshes and vertices in Blender
 
 ### Skills
 *"I am able to..."*
@@ -34,6 +35,8 @@ title: "Goals"
 - design simple 3D models in Blender by using meshes and vertices
 - design and build 3D models in Blender using the simple build-in tools, amongst grab, rotate, scale, extrude, bevel and inset
 - create simple animations using keyframes and the graph editor
+- work with different functionality such as the Subdivision and Mirror modifers
+- work with both the modeling and sculpting workspace 
 
 
 ### Competences
@@ -41,7 +44,7 @@ title: "Goals"
 
 - evaluate the functionality of different modifiers, amongst Subdivision, Mirror and Solidify
 - evaluate the tools used in the modeling and the editing stage, and when to transission from one to another
-- Blender workspace (modeling and sculpting)
+- evaluate the uses of different Blender workspaces modeling and sculpting
 
 
 ## VR in Unity
@@ -69,6 +72,7 @@ title: "Goals"
 ### Knowledge
 *"I have knowledge about..."*
 
+- the creation and uses of simple 2D and 3D elements in the Unity Editor
 - the fundamentals of the Unity Editor and how to navigate it
 - the package manager and the asset store and how to use it
 - set up a project for "build and run" for the Meta Quest 2 headset
