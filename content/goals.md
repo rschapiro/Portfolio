@@ -78,7 +78,7 @@ title: "Goals"
 
 - create simple 2D and 3D/VR projects using templates
 - change the color as well as the look of the controllers
-- make animations based on controller inputs
+- make animations run and control them when triggered by controller inputs
 - design custom hand poses for grabbing different 3D objects in a Unity project
 - write my own scripts from the ground up
 
