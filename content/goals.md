@@ -61,6 +61,8 @@ title: "Goals"
 <!-- -   custom hand poses (when grabbing objects) -->
 
 <!-- [STRANGE SENTENCE] -->
+
+
 <!-- - the uses of scripts, how to write them as well as which to add and to which -->
 
 

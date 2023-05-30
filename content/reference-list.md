@@ -4,47 +4,6 @@ title: "Reference List"
 
 Here is a list of all the material I have been using, as well as short notes on the good and bad stuff about the resources.
 
-## VR in Unity
-
-- [How To Enable Developer Mode On Meta Quest 2/Quest/Pro/Go - NEEDED FOR SIDELOADING VR APPS](https://youtu.be/KNd6oCm6HIY)
-  - A good explanation on how to set an Oculus headset to Developer Mode
-
-- [Create with VR - Unity Learn](https://learn.unity.com/course/create-with-vr?uv=2020.3)
-  - A good start on developing for virtual reality, but not that well at explaining specifics
-  - Followed a very streamlined project where you used a template project they made
-
-- [How To Setup VR Development in Unity 2022.2 with a Quest 2 (XR Interaction Toolkit 2.1)](https://youtu.be/tGZgJ5XtOXo)
-  - A very good in depth explanation on how to set up the Meta Quest 2 headset for virtual reality development in Unity
-
-- [Build And Run Your App](https://developer.oculus.com/documentation/unity/unity-build/)
-  - A good explanation on how to set up the project so you can build and run your virtual reality applications
-
-- [Unity3D & Quest2 : Running a VR project using APK Build method](https://youtu.be/K4fiFuI3Cz8)
-  - A very good explanation on how to build your virtual reality applications and how to run them directly from the headset afterwards
-
-- [How to Make a VR Game in Unity - PART 1](https://youtu.be/HhtTtvBF5bI)
-  - A good start on making a virtual reality project in Unity as well as setting up the project, downloading the right packages and setting up the player in the environment
-
-- [How to Make a VR Game in Unity 2022 - PART 2 - INPUT and HAND PRESENCE](https://youtu.be/8PCNNro7Rt0)
-  - A good video explaining how to replace the controllers with hand models
-  - Another good thing it explains animation of the hands by trigger inputs
-
-- [Custom Grab Hand Pose with Unity XR Toolkit - PART 1](https://youtu.be/JdspLj4fZlI)
-  - A very good in-depth explanation on how to make a custom grab pose for the controller hands
-
-- [How to Animate Characters in Unity 3D | Importing Free Characters and Animations from Mixamo](https://youtu.be/-FhvQDqmgmU)
-  - A good introduction to Mixamo and how to use it to download models with already made animations
-
-- [How to Animate Characters in Unity 3D | Animator Explained](https://youtu.be/vApG8aYD5aI)
-  - A good explanation of how the Animator works in Unity and what animation states are
-
-- [How to Animate Characters in Unity 3D | Animation Transitions With Booleans](https://youtu.be/FF6kezDQZ7s)
-  - A good video explaining how to change animation states
-
-
-
-
-
 ## Blender
 
 - [Blender Beginner Tutorial Part 1](https://youtu.be/nIoXOplUvAw)
@@ -85,6 +44,42 @@ Here is a list of all the material I have been using, as well as short notes on 
 - [How to Easily Create Spider-man Animations in Blender](https://youtu.be/4ICmIsQ3Xvc)
   - Didn't get to use much of the video, but good point in showing that you can use SketchFab to download and use models freely made
 
+## VR in Unity
+
+- [How To Enable Developer Mode On Meta Quest 2/Quest/Pro/Go - NEEDED FOR SIDELOADING VR APPS](https://youtu.be/KNd6oCm6HIY)
+  - A good explanation on how to set an Oculus headset to Developer Mode
+
+- [Create with VR - Unity Learn](https://learn.unity.com/course/create-with-vr?uv=2020.3)
+  - A good start on developing for virtual reality, but not that well at explaining specifics
+  - Followed a very streamlined project where you used a template project they made
+
+- [How To Setup VR Development in Unity 2022.2 with a Quest 2 (XR Interaction Toolkit 2.1)](https://youtu.be/tGZgJ5XtOXo)
+  - A very good in depth explanation on how to set up the Meta Quest 2 headset for virtual reality development in Unity
+
+- [Build And Run Your App](https://developer.oculus.com/documentation/unity/unity-build/)
+  - A good explanation on how to set up the project so you can build and run your virtual reality applications
+
+- [Unity3D & Quest2 : Running a VR project using APK Build method](https://youtu.be/K4fiFuI3Cz8)
+  - A very good explanation on how to build your virtual reality applications and how to run them directly from the headset afterwards
+
+- [How to Make a VR Game in Unity - PART 1](https://youtu.be/HhtTtvBF5bI)
+  - A good start on making a virtual reality project in Unity as well as setting up the project, downloading the right packages and setting up the player in the environment
+
+- [How to Make a VR Game in Unity 2022 - PART 2 - INPUT and HAND PRESENCE](https://youtu.be/8PCNNro7Rt0)
+  - A good video explaining how to replace the controllers with hand models
+  - Another good thing it explains animation of the hands by trigger inputs
+
+- [Custom Grab Hand Pose with Unity XR Toolkit - PART 1](https://youtu.be/JdspLj4fZlI)
+  - A very good in-depth explanation on how to make a custom grab pose for the controller hands
+
+- [How to Animate Characters in Unity 3D | Importing Free Characters and Animations from Mixamo](https://youtu.be/-FhvQDqmgmU)
+  - A good introduction to Mixamo and how to use it to download models with already made animations
+
+- [How to Animate Characters in Unity 3D | Animator Explained](https://youtu.be/vApG8aYD5aI)
+  - A good explanation of how the Animator works in Unity and what animation states are
+
+- [How to Animate Characters in Unity 3D | Animation Transitions With Booleans](https://youtu.be/FF6kezDQZ7s)
+  - A good video explaining how to change animation states
 
 
 ## General help and tips
