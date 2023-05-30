@@ -63,8 +63,6 @@ title: "Goals"
 <!-- [STRANGE SENTENCE] -->
 <!-- - the uses of scripts, how to write them as well as which to add and to which -->
 
-- [INCLUDING MATERIAL CHANGE IN UNITY AND IN BLENDER]
-
 
 ### Knowledge
 *"I have knowledge about..."*
@@ -81,6 +79,7 @@ title: "Goals"
 - make animations run and control them when triggered by controller inputs
 - design custom hand poses for grabbing different 3D objects in a Unity project
 - write my own scripts from the ground up
+- use the animator together with animations imported from Blender, to trigger animations and change animation states
 
 ### Competences
 *"I am able to..."*
